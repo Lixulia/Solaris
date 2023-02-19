@@ -7,3 +7,5 @@ This case can work for batteries that are 60mm long, a larger size than arcturus
 I plan to make more imu trays, but for now its just bmi. I might make and upload a 6050 tray, but thats all for now.
 
 Same components from arcturus, but larger battery.
+
+- Added alt tray, for 6500.
